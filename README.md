@@ -14,3 +14,14 @@ This is a re-write of Kumirei's [Review Cache]. Goals include:
 
 - Backwards compatibility. Scripts using `get_reviews()` from the original
   Review Cache should expect exactly the same behavior.
+
+---
+
+Acknowledgements:
+
+- Thanks to Kumirei for the original cache!
+
+- Thanks to
+  [Swizez](https://swizec.com/blog/how-to-configure-jest-with-typescript/) for
+  helping me figure out the crazy toolchain necessary to get jest to work with
+  typescript, etc.
