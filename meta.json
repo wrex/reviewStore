@@ -1,0 +1,6 @@
+{
+  "namespace": "https://www.github.com/wrex/",
+  "include": [
+    "/^https://(www|preview).wanikani.com/(dashboard|review/session)?$/"
+  ]
+}
